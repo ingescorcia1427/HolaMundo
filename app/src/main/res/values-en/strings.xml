@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="numero_dos">Number Two</string>
+    <string name="numero_uno">Number One</string>
+    <string name="titulo">CALCULATOR</string>
+    <string name="error_num_dos">Type number two</string>
+    <string name="error_num_one">Type number one</string>
+</resources>
