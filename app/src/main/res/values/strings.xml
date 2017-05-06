@@ -5,6 +5,21 @@
     <string name="numero_dos">Número Dos</string>
     <string name="calcular">CALCULAR</string>
     <string name="borrar">BORRAR</string>
+
     <string name="error_num_one">Digite el Número Uno</string>
     <string name="error_num_dos">Digite el Número Dos</string>
+    <string name="error_division_num_dos">El denominador no puede ser cero</string>
+
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+
+    <string-array name="opciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
+
 </resources>
